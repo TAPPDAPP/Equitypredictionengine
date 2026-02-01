@@ -1,1 +1,1 @@
-# Euitypredictionengine
+# Equitypredictionengine
